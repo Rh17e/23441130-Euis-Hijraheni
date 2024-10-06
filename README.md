@@ -1,6 +1,4 @@
 # 23441130-Euis-Hijraheni
-Tugas 1 Pemograman Web
-Program 1 (project1.php)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,7 +21,7 @@ Program 1 (project1.php)
     </form>
 </body>
 </html>
-Program 2 (kalkulator.php)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
