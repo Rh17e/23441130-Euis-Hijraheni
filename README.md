@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pemograman Web</title>
+    <title>Program 1 (project1.php)</title>
 </head>
 <body>
 <h1> Aplikasi Kalkulator Sederhana</h1>
@@ -27,7 +27,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Program 2 (kalkulator.php)</title>
 </head>
 <body>
 <?php
